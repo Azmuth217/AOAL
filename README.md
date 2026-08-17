@@ -121,7 +121,3 @@ The database backup includes applications, dated notes, documents, follow-up dat
 CSV import requires nonblank `company` and `job_title` fields. Rows missing either field are skipped and reported. Active imported records with a valid Applied Date and no Follow-Up Date receive the seven-day default.
 
 CSV export creates a spreadsheet-compatible copy of the main application table and includes readable `clarification_questions` and `clarification_answers` columns. Dated notes, attachments, and structured question records are preserved by **Back Up Data**, not by CSV round-trip import.
-
-## Revision history
-
-See `AOAL_Revision_History_&_Feature_Log_v1.9.docx` for the verified development record and future backlog.
