@@ -121,6 +121,7 @@ The database backup includes applications, dated notes, documents, follow-up dat
 <img width="1911" height="1090" alt="Screenshot 2026-08-16 at 20 45 45" src="https://github.com/user-attachments/assets/7b602a09-c917-4c77-99bf-5e92530beba6" />
 <img width="1911" height="1088" alt="Screenshot 2026-08-16 at 20 45 57" src="https://github.com/user-attachments/assets/198555f9-fbeb-4737-9776-8d363db3351e" />
 <img width="1908" height="1088" alt="Screenshot 2026-08-16 at 20 46 16" src="https://github.com/user-attachments/assets/d0222ff7-1b0d-440e-b8e5-2a79b1bbdd61" />
+<img width="387" height="18" alt="Screenshot 2026-08-16 at 23 38 26" src="https://github.com/user-attachments/assets/7bbfced4-e47b-49da-a9e9-7361b56934be" />
 
 ## CSV import and export
 
