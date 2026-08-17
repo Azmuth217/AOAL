@@ -1,3 +1,9 @@
+<img width="886" height="483" alt="Screenshot 2026-08-16 at 20 57 25" src="https://github.com/user-attachments/assets/b514a5f5-af31-4870-9c08-e8efb6bbc44b" />
+<img width="1908" height="1088" alt="Screenshot 2026-08-16 at 20 46 16" src="https://github.com/user-attachments/assets/d0222ff7-1b0d-440e-b8e5-2a79b1bbdd61" />
+<img width="1911" height="1088" alt="Screenshot 2026-08-16 at 20 45 57" src="https://github.com/user-attachments/assets/198555f9-fbeb-4737-9776-8d363db3351e" />
+<img width="1911" height="1090" alt="Screenshot 2026-08-16 at 20 45 45" src="https://github.com/user-attachments/assets/7b602a09-c917-4c77-99bf-5e92530beba6" />
+<img width="1910" height="1086" alt="Screenshot 2026-08-16 at 20 45 29" src="https://github.com/user-attachments/assets/8cb1293c-b082-4e0a-9710-df385b83794a" />
+<img width="1909" height="1091" alt="Screenshot 2026-08-16 at 20 45 19" src="https://github.com/user-attachments/assets/e03c164b-3db4-44fe-8752-8dcf9f36536a" />
 # AOAL 1.9
 
 **AOAL (An Organized Application Log), pronounced "Owl,"** is a local desktop job-application tracker built with Python 3, Tkinter, and SQLite. It keeps application records, follow-ups, clarification questions, notes, and saved documents on your own computer.
